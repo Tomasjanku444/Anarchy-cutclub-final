@@ -8,3 +8,4 @@ const base44 = createClient({
 });
 
 export { base44 };
+export default base44;
